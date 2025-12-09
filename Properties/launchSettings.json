@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "USB-LED-Badge-Control": {
+      "commandName": "Project",
+      "commandLineArgs": "\"海を越え、夜を越え、私の願いを届けて欲しい\" -continuous true"
+    }
+  }
+}
