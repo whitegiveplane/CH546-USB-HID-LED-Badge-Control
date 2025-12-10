@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMMING AND DEVELOPMENT\\Csharp_projects\\USB-LED-Badge-Control\\USB-LED-Badge-Control\\USB-LED-Badge-Control.csproj": {}
+    "X:\\repo\\USB-LED-Badge-Control.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMMING AND DEVELOPMENT\\Csharp_projects\\USB-LED-Badge-Control\\USB-LED-Badge-Control\\USB-LED-Badge-Control.csproj": {
+    "X:\\repo\\USB-LED-Badge-Control.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMMING AND DEVELOPMENT\\Csharp_projects\\USB-LED-Badge-Control\\USB-LED-Badge-Control\\USB-LED-Badge-Control.csproj",
+        "projectUniqueName": "X:\\repo\\USB-LED-Badge-Control.csproj",
         "projectName": "USB-LED-Badge-Control",
-        "projectPath": "D:\\PROGRAMMING AND DEVELOPMENT\\Csharp_projects\\USB-LED-Badge-Control\\USB-LED-Badge-Control\\USB-LED-Badge-Control.csproj",
+        "projectPath": "X:\\repo\\USB-LED-Badge-Control.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMMING AND DEVELOPMENT\\Csharp_projects\\USB-LED-Badge-Control\\USB-LED-Badge-Control\\obj\\",
+        "outputPath": "X:\\repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

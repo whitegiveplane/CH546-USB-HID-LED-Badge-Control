@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EwPaCqmIPSY=",
+  "dgSpecHash": "89rbEuis1uo=",
   "success": true,
-  "projectFilePath": "D:\\PROGRAMMING AND DEVELOPMENT\\Csharp_projects\\USB-LED-Badge-Control\\USB-LED-Badge-Control\\USB-LED-Badge-Control.csproj",
+  "projectFilePath": "X:\\repo\\USB-LED-Badge-Control.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\hidsharp\\2.6.4\\hidsharp.2.6.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.0\\microsoft.win32.systemevents.10.0.0.nupkg.sha512",

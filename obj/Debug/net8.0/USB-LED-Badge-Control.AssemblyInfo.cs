@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("USB-LED-Badge-Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76080f59ad2c948e37d2e05efe9e7c26e9dd8415")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de92ce9b3861ec61fa3080a401f114f36e40a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("USB-LED-Badge-Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("USB-LED-Badge-Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
