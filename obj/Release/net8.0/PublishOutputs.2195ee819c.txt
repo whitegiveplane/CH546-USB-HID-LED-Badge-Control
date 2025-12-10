@@ -1,0 +1,11 @@
+X:\releases\USB-LED-Badge-Control.exe
+X:\releases\USB-LED-Badge-Control.dll
+X:\releases\USB-LED-Badge-Control.deps.json
+X:\releases\USB-LED-Badge-Control.runtimeconfig.json
+X:\releases\USB-LED-Badge-Control.pdb
+X:\releases\HidSharp.dll
+X:\releases\Microsoft.Win32.SystemEvents.dll
+X:\releases\System.Drawing.Common.dll
+X:\releases\System.Private.Windows.Core.dll
+X:\releases\System.Private.Windows.GdiPlus.dll
+X:\releases\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
