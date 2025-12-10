@@ -238,7 +238,6 @@ class Program
 
         Console.WriteLine("Half-width chars: " + halfwidthcharcount);
         Console.WriteLine("Full-width chars: " + fullwidthcharcount);
-        imgWidth += fullwidthcharcount * 8;
 
         using (Bitmap bmp = new Bitmap(imgWidth, charHeight))
         using (Graphics g = Graphics.FromImage(bmp))
