@@ -4,4 +4,4 @@
 
 # Usage
 
-> USB-LED-Badge-Control.exe "TEXT" [-speed (1-8) ] [-animationtype (0-11) ] [-blink] [-scrollinglight] [-seperate]
+> USB-LED-Badge-Control.exe "TEXT" [-speed (1-8) ] [-animationtype (0-11) ] [-blink] [-scrollinglight] [-separate]
