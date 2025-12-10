@@ -20,3 +20,26 @@ D:\PROGRAMMING AND DEVELOPMENT\Csharp_projects\USB-LED-Badge-Control\USB-LED-Bad
 D:\PROGRAMMING AND DEVELOPMENT\Csharp_projects\USB-LED-Badge-Control\USB-LED-Badge-Control\bin\Debug\net8.0\System.Private.Windows.Core.dll
 D:\PROGRAMMING AND DEVELOPMENT\Csharp_projects\USB-LED-Badge-Control\USB-LED-Badge-Control\bin\Debug\net8.0\System.Private.Windows.GdiPlus.dll
 D:\PROGRAMMING AND DEVELOPMENT\Csharp_projects\USB-LED-Badge-Control\USB-LED-Badge-Control\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+X:\repo\bin\Debug\net8.0\USB-LED-Badge-Control.exe
+X:\repo\bin\Debug\net8.0\USB-LED-Badge-Control.deps.json
+X:\repo\bin\Debug\net8.0\USB-LED-Badge-Control.runtimeconfig.json
+X:\repo\bin\Debug\net8.0\USB-LED-Badge-Control.dll
+X:\repo\bin\Debug\net8.0\USB-LED-Badge-Control.pdb
+X:\repo\bin\Debug\net8.0\HidSharp.dll
+X:\repo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+X:\repo\bin\Debug\net8.0\System.Drawing.Common.dll
+X:\repo\bin\Debug\net8.0\System.Private.Windows.Core.dll
+X:\repo\bin\Debug\net8.0\System.Private.Windows.GdiPlus.dll
+X:\repo\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.csproj.AssemblyReference.cache
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.GeneratedMSBuildEditorConfig.editorconfig
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.AssemblyInfoInputs.cache
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.AssemblyInfo.cs
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.csproj.CoreCompileInputs.cache
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.sourcelink.json
+X:\repo\obj\Debug\net8.0\USB-LED-.A0299D04.Up2Date
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.dll
+X:\repo\obj\Debug\net8.0\refint\USB-LED-Badge-Control.dll
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.pdb
+X:\repo\obj\Debug\net8.0\USB-LED-Badge-Control.genruntimeconfig.cache
+X:\repo\obj\Debug\net8.0\ref\USB-LED-Badge-Control.dll

@@ -2,7 +2,7 @@
   "profiles": {
     "USB-LED-Badge-Control": {
       "commandName": "Project",
-      "commandLineArgs": "\"・Always Together Your logic of love Built into our initial settings I breathed easy Believing this room was the whole world That was my only salvation Pretending to share half a life My vision melts a little Maybe I'll discard this answer too and dream forever in the light That's my only salvation The white of these walls Seems more real than the sky's blue Our foreheads trembled Just one grain  love me, love me, please Clutching only the cool key Rewrite it, revise it, write it, test it Let's just gaze at the false sky\" -speed 8"
+      "commandLineArgs": "\"你好，这是一条测试，看看你的\" -speed 8"
     }
   }
 }

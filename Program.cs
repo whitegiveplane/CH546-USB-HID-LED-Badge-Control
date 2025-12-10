@@ -286,12 +286,20 @@ class Program
     static String TextExtender(String text)
     {
         int n = 0;
+        byte p = 0;
         foreach (char c in text)
         {
             if (c >= 128)
             {
-                n++;
+                p++;
             }
+            if (p > 1)
+            {
+                p = 0;
+                continue;
+            }
+            n++;
+
         }
         text += new string(' ', n);
         return text;
