@@ -1,3 +1,3 @@
-# USB-HID-LED-Badge-Control
+# CH546-USB-HID-LED-Badge-Control
 
 STILL IN DEVELOPMENT!!!!!
