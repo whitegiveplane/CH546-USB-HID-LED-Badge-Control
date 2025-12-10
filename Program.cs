@@ -1,12 +1,5 @@
-﻿// Updated version: -blink and -scrollinglight now work as simple flags (no true/false argument)
-// All comments translated to English.
-
-using System;
-using System.Collections.Generic;
-using System.Drawing;
+﻿using System.Drawing;
 using System.Drawing.Text;
-using System.Linq;
-using System.Threading;
 using HidSharp;
 
 class Program
@@ -22,7 +15,7 @@ class Program
             return;
         }
 
-        string text = args[0]; // Keep original casing
+        string text = args[0];
         byte speed = 6;
         byte animationtype = 0;
         bool blink = false;
@@ -57,7 +50,7 @@ class Program
                 continuous = false;
             }
         }
-
+        text = TextExtender(text);
         short charactercount = (short)text.Length;
         Console.WriteLine("String length: " + charactercount);
 
@@ -245,6 +238,7 @@ class Program
 
         Console.WriteLine("Half-width chars: " + halfwidthcharcount);
         Console.WriteLine("Full-width chars: " + fullwidthcharcount);
+        imgWidth += fullwidthcharcount * 8;
 
         using (Bitmap bmp = new Bitmap(imgWidth, charHeight))
         using (Graphics g = Graphics.FromImage(bmp))
@@ -287,5 +281,20 @@ class Program
             packets.Add(currentPacket.ToArray());
 
         return packets;
+    }
+
+
+    static String TextExtender(String text)
+    {
+        int n = 0;
+        foreach (char c in text)
+        {
+            if (c >= 128)
+            {
+                n++;
+            }
+        }
+        text += new string(' ', n);
+        return text;
     }
 }
